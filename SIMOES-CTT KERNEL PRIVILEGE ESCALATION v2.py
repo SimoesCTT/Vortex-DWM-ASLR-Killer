@@ -509,7 +509,6 @@ if __name__ == "__main__":
     print("4. Process gains SYSTEM privileges WITHOUT admin access")
     
     print("\n" + "-"*60)
-    print("Submit this evidence to Microsoft MSRC:")
     print(f"- Theorem 4.2 integral: {integral:.4f}")
     print(f"- 33-layer temporal resonance")
     print(f"- α=0.0302011 deterministic collapse")
